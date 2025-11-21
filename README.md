@@ -4,7 +4,7 @@
 
 <br clear="both">
 
-<h3 align="left">Currently studying for a Bachelor's degree majoring in Computer Science at University of Florence (UniFi)</h3>
+<h3 align="left">Bachelor's degree in Computer Science. Currently studying for a Master's degree in Software: Science and Technology at University of Florence (UniFi)</h3>
 
 ###
 
